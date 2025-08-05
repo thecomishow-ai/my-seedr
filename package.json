@@ -1,3 +1,7 @@
+"scripts": {
+  "start": "node server.js"
+}
+
 {
   "name": "my-seedr",
   "version": "1.0.0",
